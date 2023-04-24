@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **Android rom projects**
 
-- 🌱 I’m currently learning **about android**
+- 🌱 I’m currently learning **about android devlopment**
 
 - 👯 I’m looking to collaborate on **to anyone**
 
