@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **amir7860.ak@gmail.com**
 
-- ⚡ Fun fact **i am funny some time**
+<!--- ⚡ Fun fact **i am funny some time**-->
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
