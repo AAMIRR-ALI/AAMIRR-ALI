@@ -1,11 +1,17 @@
+<!--[MasterHear](https://github.com/SathamHussainM/SathamHussainM/blob/master/icons/Gmail.png) -->
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mohdamirr.mohdamirr">
+
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+Aamir+Ali...;Nice+to+meet+you!&center=true&size=30">
   </a>
+  
+ 
 </h1>
-<!--<h3 align="center">A passionate for android</h3> -->
+<!--<h3 align="center">A passionate for android</h3>-->
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 
 <p align="left"> <a href="https://twitter.com/aamir__alli" target="blank"><img src="https://img.shields.io/twitter/follow/aamir__alli?logo=twitter&style=for-the-badge" alt="aamir__alli" /></a> </p>
 
