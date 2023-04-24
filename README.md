@@ -10,7 +10,7 @@
  
 </h1>
 <!--<h3 align="center">A passionate for android</h3>-->
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif">
 
 
 <p align="left"> <a href="https://twitter.com/aamir__alli" target="blank"><img src="https://img.shields.io/twitter/follow/aamir__alli?logo=twitter&style=for-the-badge" alt="aamir__alli" /></a> </p>
