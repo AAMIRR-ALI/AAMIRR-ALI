@@ -15,7 +15,7 @@
 
 <!--<p align="left"> <a href="https://twitter.com/aamir__alli" target="blank"><img src="https://img.shields.io/twitter/follow/aamir__alli?logo=twitter&style=for-the-badge" alt="aamir__alli" /></a> </p>-->
 
-- 🔭 I’m currently working on **Android rom projects**
+- 🔭 I’m currently working as **Web Dev**
 
 - 🌱 I’m currently learning **about android devlopment**
 
